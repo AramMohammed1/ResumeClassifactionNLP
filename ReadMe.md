@@ -211,6 +211,40 @@
     <td>0.80</td>
     <td>0.22</td>
   </tr>
-
-
+  <tr>
+    <td>Stanza<br>NER</br> without(Date, Cardinal or person), 2-3 grams  and nouns only stemmed</td>
+    <td>SVM rbf</td>
+    <td> 0.81</td>
+    <td>0.79</td>
+    <td>0.81</td>
+    <td>0.80</td>
+    <td>0.79</td>
+    <td>0.79</td>
+    <td>0.80</td>
+    <td>0.78</td>
+  </tr>
+  <tr>
+    <td>Stanza<br>Dependency tree</br> without(punct and root)</td>
+    <td>SVM rbf</td>
+    <td> 0.61</td>
+    <td>0.57</td>
+    <td>0.62</td>
+    <td>0.56</td>
+    <td>0.61</td>
+    <td>0.57</td>
+    <td>0.59</td>
+    <td>0.52</td>
+  </tr>
 </table>
+
+![image](https://github.com/user-attachments/assets/6faaa072-1252-4a4a-bbc1-12de78a46038)
+![image](https://github.com/user-attachments/assets/f2c1112f-4b39-40a5-b61f-fbc49e756fa1)
+![image](https://github.com/user-attachments/assets/a5735f0d-f4b6-453d-9b59-dc6fc9eb8496)
+![image](https://github.com/user-attachments/assets/22d02054-f74f-4cac-9f6c-9b0790067fb7)
+![image](https://github.com/user-attachments/assets/cf9d4675-c1e0-441c-9514-f0e56a7c340d)
+![image](https://github.com/user-attachments/assets/4bb9bd7b-8a3d-43b7-a54b-6f68ceca6dfc)
+![image](https://github.com/user-attachments/assets/bbd03fac-7f24-4759-b6d6-e2041b1545cf)
+every thing
+![image](https://github.com/user-attachments/assets/d6cd0ace-6a65-40df-b6ce-b8040d384c48)
+
+
