@@ -163,4 +163,58 @@
     <td>0.83</td>
     <td>0.81</td>
   </tr>
+  <tr>
+    <td>Spacy</td>
+    <td>Dependency Tree</td>
+    <td>Word - Head - Head Of Head</td>
+    <td>0.81</td>
+    <td>0.75</td>
+    <td>0.76</td>
+    <td>0.75</td>
+    <td>0.77</td>
+    <td>0.79</td>
+    <td>0.80</td>
+    <td>0.80</td>
+  </tr>
+  <tr>
+    <td>Spacy</td>
+    <td>Dependency Tree</td>
+    <td>Word - Head - Deprel</td>
+    <td>0.86</td>
+    <td>0.72</td>
+    <td>0.76</td>
+    <td>0.71</td>
+    <td>0.80</td>
+    <td>0.73</td>
+    <td>0.80</td>
+    <td>0.76</td>
+  </tr>
+  <tr>
+    <td>Spacy</td>
+    <td>Dependency Tree</td>
+    <td>Word(POS) - Head(POS) - Deprel(POS) - Lemma </td>
+    <td>0.81</td>
+    <td>0.71</td>
+    <td>0.76</td>
+    <td>0.71</td>
+    <td>0.81</td>
+    <td>0.76</td>
+    <td>0.86</td>
+    <td>0.72</td>
+  </tr>
+  <tr>
+    <td>Spacy</td>
+    <td>NER</td>
+    <td>ORG Only</td>
+    <td>0.85</td>
+    <td>0.30</td>
+    <td>0.76</td>
+    <td>0.25</td>
+    <td>0.86</td>
+    <td>0.26</td>
+    <td>0.80</td>
+    <td>0.22</td>
+  </tr>
+
+
 </table>
