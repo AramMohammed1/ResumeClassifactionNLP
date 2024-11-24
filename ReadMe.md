@@ -247,4 +247,16 @@
 every thing
 ![image](https://github.com/user-attachments/assets/d6cd0ace-6a65-40df-b6ce-b8040d384c48)
 
+2-gram Dep and nouns Stem
+![image](https://github.com/user-attachments/assets/e2d51fe5-bd04-46f5-8699-d86e6e422cac)
+
+
+
+2-gram Dep and nouns lemma 
+![image](https://github.com/user-attachments/assets/85a0f630-2891-4565-b76b-ce3fdfcfb9c5)
+
+![image](https://github.com/user-attachments/assets/0e460bcd-f1a5-4d18-8d08-7c9770fe61fe)
+Top 20 NER Features
+['ap', 'autocad', 'cisco', 'facebook', 'fmla', 'gaap', 'general_ledger', 'gl', 'google_analytics', 'hr', 'hris', 'instagram', 'medicare', 'navy', 'pr', 'quickbooks', 'shrm', 'solidworks', 'twitter', 'windows_server']
+
 
