@@ -274,7 +274,7 @@
   </tr>
 
   <tr>
-    <td>Tuning stem_head_headofhead + ngram(2-3) + nouns stemmed only</td>
+    <td>Tuning stem_head_headofhead + ngram(2-3) + nouns stemmed only chi2</td>
     <td>SVM rbf</td>
     <td> 0.82</td>
     <td>0.81</td>
@@ -284,6 +284,19 @@
     <td>0.81</td>
     <td>0.81</td>
     <td>0.79</td>
+  </tr>
+
+  <tr>
+    <td>Tuning stem_head_headofhead + ngram(2-3) + nouns stemmed only classif</td>
+    <td>SVM rbf</td>
+    <td> 0.84</td>
+    <td>0.83</td>
+    <td>0.83</td>
+    <td>0.83</td>
+    <td>0.82</td>
+    <td>0.83</td>
+    <td>0.84</td>
+    <td>0.84</td>
   </tr>
 </table>
 
