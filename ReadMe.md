@@ -312,6 +312,11 @@ Top 20 NER Features
 
 ![image](https://github.com/user-attachments/assets/bcddc312-0529-4858-854f-2e60abcf7fcc)
 ![image](https://github.com/user-attachments/assets/a174fff9-3e07-4c4a-9a96-a3fd203192dc)
+mutual_info_classif
+![image](https://github.com/user-attachments/assets/42ea99f1-368c-4a0c-af2c-0f5fa3ed5796)
+f_classif
+![image](https://github.com/user-attachments/assets/f7dfdb95-9296-4f0d-8ba0-1a8b8419bf19)
+
 ![image](https://github.com/user-attachments/assets/aefa50eb-eb1c-418f-bb4c-1b7cc83b9448)
 
 
