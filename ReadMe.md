@@ -235,6 +235,56 @@
     <td>0.59</td>
     <td>0.52</td>
   </tr>
+    <tr>
+    <td>Synset Names only</td>
+    <td>SVM rbf</td>
+    <td> 0.77</td>
+    <td>0.68</td>
+    <td>0.77</td>
+    <td>0.66</td>
+    <td>0.77</td>
+    <td>0.68</td>
+    <td>0.76</td>
+    <td>0.65</td>
+  </tr>
+  <tr>
+    <td>Synset Names only with pos tag</td>
+    <td>SVM rbf</td>
+    <td> 0.78</td>
+    <td>0.67</td>
+    <td>0.79</td>
+    <td>0.65</td>
+    <td>0.78</td>
+    <td>0.67</td>
+    <td>0.77</td>
+    <td>0.64</td>
+  </tr>
+  
+  <tr>
+    <td>Synset Names only and Nouns Stemmed and 2-3 grams no stemming</td>
+    <td>SVM rbf</td>
+    <td> 0.83</td>
+    <td>0.84</td>
+    <td>0.83</td>
+    <td>0.82</td>
+    <td>0.83</td>
+    <td>0.84</td>
+    <td>0.82</td>
+    <td>0.82</td>
+  </tr>
+
+  <tr>
+    <td>Tuning stem_head_headofhead + ngram(2-3) + nouns stemmed only</td>
+    <td>SVM rbf</td>
+    <td> 0.82</td>
+    <td>0.81</td>
+    <td>0.82</td>
+    <td>0.82</td>
+    <td>0.82</td>
+    <td>0.81</td>
+    <td>0.81</td>
+    <td>0.79</td>
+  </tr>
 </table>
 
 ![image](https://github.com/user-attachments/assets/6faaa072-1252-4a4a-bbc1-12de78a46038)
@@ -258,5 +308,13 @@ every thing
 ![image](https://github.com/user-attachments/assets/0e460bcd-f1a5-4d18-8d08-7c9770fe61fe)
 Top 20 NER Features
 ['ap', 'autocad', 'cisco', 'facebook', 'fmla', 'gaap', 'general_ledger', 'gl', 'google_analytics', 'hr', 'hris', 'instagram', 'medicare', 'navy', 'pr', 'quickbooks', 'shrm', 'solidworks', 'twitter', 'windows_server']
+
+
+![image](https://github.com/user-attachments/assets/bcddc312-0529-4858-854f-2e60abcf7fcc)
+![image](https://github.com/user-attachments/assets/a174fff9-3e07-4c4a-9a96-a3fd203192dc)
+![image](https://github.com/user-attachments/assets/aefa50eb-eb1c-418f-bb4c-1b7cc83b9448)
+
+
+
 
 
