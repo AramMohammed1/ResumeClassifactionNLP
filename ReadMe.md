@@ -298,6 +298,79 @@
     <td>0.84</td>
     <td>0.84</td>
   </tr>
+<tr>
+  <td>Word2Vec Embeddings SVM g=2</td>
+  <td>SVM rbf</td>
+  <td> 1</td>
+  <td>0.05</td>
+  <td>1</td>
+  <td>0.17</td>
+  <td>1</td>
+  <td>0.05</td>
+  <td>1</td>
+  <td>0.02</td>
+</tr>
+  <tr>
+  <td>Word2Vec Embeddings SVM g=0.01</td>
+  <td>SVM rbf</td>
+  <td> 0.99</td>
+  <td>0.53</td>
+  <td>0.99</td>
+  <td>0.52</td>
+  <td>0.99</td>
+  <td>0.53</td>
+  <td>0.99</td>
+  <td>0.51</td>
+</tr>
+  <tr>
+  <td>Word2Vec Embeddings SVM</td>
+  <td>SVM Linear</td>
+  <td> 1</td>
+  <td>0.47</td>
+  <td>1</td>
+  <td>0.50</td>
+  <td>1</td>
+  <td>0.47</td>
+  <td>1</td>
+  <td>0.48</td>
+</tr>
+  <tr>
+  <td>Word2Vec Embeddings KNN 3</td>
+  <td></td>
+  <td> 0.66</td>
+  <td>0.43</td>
+  <td>0.69</td>
+  <td>0.49</td>
+  <td>0.66</td>
+  <td>0.43</td>
+  <td>0.65</td>
+  <td>0.43</td>
+</tr>
+<tr>
+  <td>Word2Vec Embeddings Deep learning</td>
+  <td>MLPClassifier hidden 100 mxiter 500</td>
+  <td> 1</td>
+  <td>0.57</td>
+  <td>1</td>
+  <td>0.57</td>
+  <td>1</td>
+  <td>0.57</td>
+  <td>1</td>
+  <td>0.56</td>
+</tr>
+
+<tr>
+  <td>Word2Vec Embeddings Deep learning</td>
+  <td>MLPClassifier hidden 100 mxiter 500</td>
+  <td> 1</td>
+  <td>0.56</td>
+  <td>1</td>
+  <td>0.57</td>
+  <td>1</td>
+  <td>0.56</td>
+  <td>1</td>
+  <td>0.56</td>
+</tr>
 </table>
 
 ![image](https://github.com/user-attachments/assets/6faaa072-1252-4a4a-bbc1-12de78a46038)
@@ -332,6 +405,10 @@ f_classif
 
 ![image](https://github.com/user-attachments/assets/aefa50eb-eb1c-418f-bb4c-1b7cc83b9448)
 
+Confiusion metrix for Synset Names only and Nouns Stemmed and 2-3 grams no stemming
+×آ
+![image](https://github.com/user-attachments/assets/2c89cac9-3470-4a2c-a4bb-acbaf1c0cce7)
+![image](https://github.com/user-attachments/assets/1f8298a9-6aa9-4eed-bf88-4ec94822daf5)
 
 
 
