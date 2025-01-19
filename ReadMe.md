@@ -374,13 +374,13 @@
 <tr>
   <td>Word2Vec Embeddings Similarity with features</td>
   <td>3000 feature sum</td>
+  <td>0.56</td>
   <td>0.41</td>
-  <td>0.41</td>
+  <td>0.53</td>
   <td>0.56</td>
   <td>0.56</td>
   <td>0.41</td>
-  <td>0.41</td>
-  <td>0.38</td>
+  <td>0.53</td>
   <td>0.38</td>
 </tr>
 </table>
@@ -421,6 +421,11 @@ Confiusion metrix for Synset Names only and Nouns Stemmed and 2-3 grams no stemm
 ×آ
 ![image](https://github.com/user-attachments/assets/2c89cac9-3470-4a2c-a4bb-acbaf1c0cce7)
 ![image](https://github.com/user-attachments/assets/1f8298a9-6aa9-4eed-bf88-4ec94822daf5)
+
+
+
+![image](https://github.com/user-attachments/assets/7b578701-a9f9-4cc1-a9ff-1b601be86318)
+
 
 
 
