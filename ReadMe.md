@@ -371,6 +371,18 @@
   <td>1</td>
   <td>0.56</td>
 </tr>
+<tr>
+  <td>Word2Vec Embeddings Similarity with features</td>
+  <td>3000 feature sum</td>
+  <td>0.41</td>
+  <td>0.41</td>
+  <td>0.56</td>
+  <td>0.56</td>
+  <td>0.41</td>
+  <td>0.41</td>
+  <td>0.38</td>
+  <td>0.38</td>
+</tr>
 </table>
 
 ![image](https://github.com/user-attachments/assets/6faaa072-1252-4a4a-bbc1-12de78a46038)
